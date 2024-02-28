@@ -1,0 +1,10 @@
+RAW_DATA_PATH=D:/learn/dataset/rawdata/chb-mit
+SEGMENTATION_SAVE_PATH=C:/dataset/segmention/chbmit
+PREPROCESS_SAVE_PATH=C:/dataset/preprocess/chbmitmul10_event
+INTERICTAL_BETWEEN_ICTAL=4
+PREICTAL=30
+SPH=5
+SOP=35
+POSTICTAL=30
+SAMPLE_RATE=256
+WINDOWS=10
